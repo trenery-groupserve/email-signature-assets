@@ -15,3 +15,13 @@ Public images used in email signatures.
 
 ## Other
 - cliq-logo.png (1080x580)
+
+## WorkDrive guide screenshots (workdrive-guide/)
+- team-folders-sidebar.png
+- team-folder-members-manage.png
+- members-tab-change-role.png
+- members-add-by-email.png
+- folder-select-share-details.png
+- folder-menu-share.png
+- share-dialog-customised-folder.png
+- customised-folder-icon.png
