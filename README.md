@@ -25,3 +25,13 @@ Public images used in email signatures.
 - folder-menu-share.png
 - share-dialog-customised-folder.png
 - customised-folder-icon.png
+
+## Claude artifact guide screenshots (claude-artifact-guide/)
+- 01-view-invitation-email.png
+- 02-accept-invitation.png
+- 03-canvas-overview.png
+- 04-project-switcher.png
+- 05-play-full-screen.png
+- 06-back-to-canvas.png
+- 07-comment-mode-add-comment.png
+- 08-exit-comment-mode.png
